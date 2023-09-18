@@ -3,4 +3,4 @@
 
 echo "Running Husky"
 
-npx eslint src --ext .ts,.tsx
+npm run lint
