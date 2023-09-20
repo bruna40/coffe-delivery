@@ -26,7 +26,7 @@
   {
     "id": 4,
     "nome": "Expresso Gelado",
-    "tag": ["Tradicional", " Gelado"],
+    "tag": ["Tradicional", "Gelado"],
     "preco": 9.9,
     "descricao": "Bebida preparada com café expresso e cubos de gelo",
     "imagem": "../../../../coffeImagens/cafe-gelado.png"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "nome": "Café com Leite",
-    "tag": ["Tradicional", " Com Leite"],
+    "tag": ["Tradicional", "Com Leite"],
     "preco": 9.9,
     "descricao": "Meio a meio de expresso tradicional com leite vaporizado",
     "imagem": "../../../../coffeImagens/cafe-com-Leite.png"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "nome": "Latte",
-    "tag": ["Tradicional", " Com Leite"],
+    "tag": ["Tradicional", "Com Leite"],
     "preco": 9.9,
     "descricao": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
     "imagem": "../../../../coffeImagens/latte.png"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "nome": "Capuccino",
-    "tag": ["Tradicional", " Com Leite"],
+    "tag": ["Tradicional", "Com Leite"],
     "preco": 9.9,
     "descricao": "Bebida com canela feita de doses iguais de café, leite e espuma",
     "imagem": "../../../../coffeImagens/capuccino.png"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "nome": "Macchiato",
-    "tag": ["Tradicional", " Com Leite"],
+    "tag": ["Tradicional", "Com Leite"],
     "preco": 9.9,
     "descricao": "Café expresso misturado com um pouco de leite quente e espuma",
     "imagem": "../../../../coffeImagens/macchiato.png"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "nome": "Mocaccino",
-    "tag": ["Tradicional", " Com Leite"],
+    "tag": ["Tradicional", "Com Leite"],
     "preco": 9.9,
     "descricao": "Café expresso com calda de chocolate, pouco leite e espuma",
     "imagem": "../../../../coffeImagens/mocaccino.png"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "nome": "Chocolate Quente",
-    "tag": ["Especial", " Com Leite"],
+    "tag": ["Especial", "Com Leite"],
     "preco": 9.9,
     "descricao": "Bebida feita com chocolate dissolvido em leite quente e café",
     "imagem": "../../../../coffeImagens/chocolate-quente.png"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "nome": "Cubano",
-    "tag": ["Especial", " Alcoólico", " Gelado"],
+    "tag": ["Especial", "Alcoólico", "Gelado"],
     "preco": 9.9,
     "descricao": "Drink gelado de café expresso com rum, creme de leite e hortlã",
     "imagem": "../../../../coffeImagens/cubano.png"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "nome": "Irlandês",
-    "tag": ["Especial", " Alcoólico"],
+    "tag": ["Especial", "Alcoólico"],
     "preco": 9.9,
     "descricao": "Bebida a base de café, uísque irlandês, açucar e chantilly",
     "imagem": "../../../../coffeImagens/irlandes.png"
