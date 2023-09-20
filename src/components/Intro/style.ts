@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
   display: flex;
   flex-direction: row;
-  padding: 2rem 10rem;
+  margin-top: 5rem;
 `
 export const Title = styled.div`
   display: flex;

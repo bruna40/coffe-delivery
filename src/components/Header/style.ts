@@ -2,8 +2,9 @@ import styled from 'styled-components'
 
 export const HeaderContainer = styled.header`
   display: flex;
-  padding: 2rem 10rem;
   justify-content: space-between;
+  margin: 2rem 0;
+  margin-top: -5rem;
 `
 export const Container = styled.div`
   display: flex;

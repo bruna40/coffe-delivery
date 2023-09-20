@@ -1,9 +1,6 @@
 import styled from 'styled-components'
 
 export const Container = styled.div`
-  padding: 2rem 10rem;
-  margin-left: 1.5rem;
-
   h1 {
     color: ${(props) => props.theme['base-subtitle']};
     font-family: 'Roboto', sans-serif;
