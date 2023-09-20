@@ -10,3 +10,4 @@ Em desenvolvimento
 - Styled Components
 - React Router Dom
 - Cypress
+- Husky
