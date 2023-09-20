@@ -4,3 +4,4 @@
 echo "Running Husky"
 
 npm run lint
+
