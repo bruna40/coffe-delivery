@@ -26,7 +26,7 @@ export const Title = styled.div`
 export const Items = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-top: 2.4rem;
+  margin-top: 4rem;
   span {
     display: flex;
     gap: 0.5rem;

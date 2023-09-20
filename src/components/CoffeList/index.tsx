@@ -1,6 +1,15 @@
 import { Minus, Plus, ShoppingCart } from '@phosphor-icons/react'
 import coffes from '../../data/coffes.json'
-import { Container, ListContainer, Coffee, Description, Tag } from './style'
+import {
+  Container,
+  ListContainer,
+  Coffee,
+  Description,
+  Tag,
+  ContainerCart,
+  Text,
+  Button,
+} from './style'
 
 export function CoffeeList() {
   return (
@@ -18,10 +27,11 @@ export function CoffeeList() {
                   })}
                 </Tag>
                 <h4>{coffe.nome}</h4>
-                <p>{coffe.descricao}</p>
-                <span>
-                  {coffe.preco}
-                  <div>
+                <Text>{coffe.descricao}</Text>
+                <ContainerCart>
+                  R$
+                  <p>{coffe.preco}</p>
+                  <span>
                     <button>
                       <Minus />
                     </button>
@@ -29,11 +39,11 @@ export function CoffeeList() {
                     <button>
                       <Plus />
                     </button>
-                    <button>
-                      <ShoppingCart />
-                    </button>
-                  </div>
-                </span>
+                  </span>
+                  <Button>
+                    <ShoppingCart size={17} />
+                  </Button>
+                </ContainerCart>
               </Description>
             </Coffee>
           )
